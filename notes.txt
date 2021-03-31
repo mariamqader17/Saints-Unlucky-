@@ -1,0 +1,74 @@
+
+DSC 106:
+	- show storyboard (on webpage)
+	- Idea: Are the Saints unlucky?
+		- Game 1: Minnesota Miracle
+			- https://www.youtube.com/watch?v=OJzpoj_NxqQ 
+			- comparing Defenses for season compared to that game?
+
+		- Game 2: No Call against Rams?
+			- Comparing refereeing
+			- 
+		- Game 3: Vikings 
+			- about Drew Brees Injury
+			- comparison pre-injury vs post-injury
+			- Main Idea: did the injury hurt Brees?
+				- compare the offensive line, because Brees fumbled it.
+
+			- idea: make it interactive:
+				- you can toggle on/off Brees
+
+	- Other idea:
+		- Then in playoffs vs in regular season
+
+- Introduction:
+	- https://bleacherreport.com/articles/1443743-ranking-the-nfls-5-luckiest-and-unluckiest-teams#slide8
+	- explain how the Saints are considered unlucky (by the stats)
+	- give the examples of how they have fallen short in the last 3 years.
+
+1 big pop-up:
+	- website says Saints are unlucky
+	- Mariam talks about being a Saints Fan
+
+
+So, what are trying to say:
+	- Game 1:
+		- for the Minnesota Game, we want to show how good the secondary was for the Vikings
+		- Show how Marcus Williams was during the season (to show if his error was expected)
+			- Radial Graph of how the secondary/team performed compared to usual.
+			- dot chart of how the secondary performed
+
+	- Game 2 vs Rams:
+		- the no-call from the referee
+		- done by Mariam
+
+	- Game 3:
+		- loss to the Vikings
+		- this is attributed to the Drew Brees Injury
+			- so we can show how the 
+			- double bar chart
+
+
+
+Plan:
+
+	- Wednesday:
+		- get data
+		- get graphs
+		- have a few explaining sentences
+		- @ noon: finish layout
+
+	- Work on it separate (Wednesday Week 10 to Wednesday Finals)
+
+	- Wednesday (Finals Week):
+		- work on anything else
+
+		
+Game 2:
+	- goal: comparing the refereeing between that game compared to other games
+	- comparing the performance of the Saints compared to the regular season.
+
+Game 3:
+	- goal: comparing the performance of the Saints pre-Brees injury and during the game.
+
+

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--<link href="https://fonts.googleapis.com/css?family=Montserrat%7CPaytone+One&display=swap" rel="stylesheet" />-->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
+	<title>Are the Saints Unlucky?</title>
+	<link rel="stylesheet" href="style.css">
+	<meta charset="UTF-8">
+	<style>* { padding: 0px; margin: 4px; }</style>
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="script.js"></script>
+	<script src="https://code.highcharts.com/modules/data.js"></script>
+	<script src="https://code.highcharts.com/modules/drilldown.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+	<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+	<script src="https://code.highcharts.com/highcharts-more.js"></script>
+</head>
+<body style="background-color:rgb(252, 240, 215);" onload = 'init()'>
+	<header>
+		<!--1- header to the file-->
+		<h1 style = 'text-align: center;'><span class = 'gold'>Are</span><span>the</span><span class = 'gold'>Saints</span><span>Unlucky?</span></h1>
+		<h3 style = 'text-align: center;'>A look into whether Saint’s playoff losses were due to bad luck or something more.</h3>
+		<img class = 'center' src="images/New_Orleans_Saints_logo.svg" alt="New Orlean Saints">
+	</header>
+	<main>
+		<section class = "buttons flex-container">
+			<button onclick = 'init()' style="background:transparent; border:none; color:transparent;"><a href="#" class="button" id = 'intro'>Introduction</a></button>
+			<button onclick = 'miracle()' style="background:transparent; border:none; color:transparent;"><a href="#" class="button" id = 'miracle'>Minnesota Miracle</a></button>
+			<button onclick = 'no_call()' style="background:transparent; border:none; color:transparent;"><a href="#" class="button" id = 'no-call'>The No Call</a></button>
+			<button onclick = 'injury()' style="background:transparent; border:none; color:transparent;"><a href="#" class="button" id = 'brees-Injury'>The Brees Injury</a></button>
+		</section>
+		
+		<section class="flex-container">
+			<div class = 'flex-item chart'>
+				<div id="viz-chart"></div>		
+			</div>
+			<div class = 'flex-item blurb' id = 'content'>
+				<p>test</p>
+			</div>
+		</section>
+		<!--
+		<section class="flex-container">
+			<div class = 'flex-item chart'>
+				<div id="viz-chart"></div>		
+			</div>
+			<div class = 'flex-item blurb'>
+				<iframe width="500px" height="300px" src="https://www.youtube.com/embed/OJzpoj_NxqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<section class = "buttons flex-container" id = 'content'>
+					<a href="#" class="small_button">Video</a>
+					<a href="#" class="small_button">More Info.</a>
+				</section>
+			</div>
+		</section>
+		-->
+</body>
